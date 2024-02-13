@@ -1,0 +1,5 @@
+Backend/node_modules
+Backend/.env
+NoteApp/node_modules
+NoteApp/.env
+NoteApp/Note.txt
